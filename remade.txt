@@ -1,0 +1,10 @@
+My project does not contain extra configuration, just import it into eclipse. 
+
+It mainly contains four classes:
+
+AbstractNode: superclass of the following 2 types of nodes;
+NodeOfElection: this class is built for nodes in Election Algorithm which contains diffusion part;
+NodeOfTree: this class is built for nodes in Tree Wave Algorithm without diffusion part;
+TreeModel: this class provides methods to create different types of trees and test the algorithms.
+
+You could also test its function in TreeTest.java.
